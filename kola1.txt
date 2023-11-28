@@ -2,3 +2,4 @@ My first edit.
 
 My first file.
 This is a note to show comparism
+This is a note to show comparism and correction
